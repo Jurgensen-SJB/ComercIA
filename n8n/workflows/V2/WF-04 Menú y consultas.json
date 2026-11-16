@@ -19,7 +19,7 @@
             }
           ]
         }
-      },
+      }, 
       "id": "21d7b0bd-5196-4cae-b8fe-11eb0d1e9478",
       "name": "Entrada",
       "type": "n8n-nodes-base.executeWorkflowTrigger",

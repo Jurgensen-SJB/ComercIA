@@ -28,7 +28,7 @@
               "type": "string"
             }
           ]
-        },
+        }, 
         "includeOtherFields": true,
         "options": {}
       },

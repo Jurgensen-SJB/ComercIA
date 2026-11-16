@@ -16,7 +16,7 @@
       "position": [
         0,
         480
-      ],
+      ], 
       "webhookId": "9ca303d0-0227-4ad3-9e1f-f4309c0e48bf",
       "credentials": {
         "telegramApi": {
